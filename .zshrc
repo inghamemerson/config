@@ -1,0 +1,1 @@
+/Users/inghamemerson/.dotfiles/zsh/zshrc.symlink
